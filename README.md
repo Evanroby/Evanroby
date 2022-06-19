@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Evanroby
+- 👀 I’m interested in code
+- 🌱 I’m currently learning scripts for roblox/others game
+- 💞️ I’m looking to collaborate on roblox
+- 📫 How to reach me ...
+- ✨ Youtuber, called Evanroby (https://youtube.com/Evanroby)
