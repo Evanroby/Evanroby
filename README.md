@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Evanroby
-- 👀 I’m interested in code
-- 🌱 I’m currently learning scripts for roblox/others game
-- 💞️ I’m looking to collaborate on roblox
-- 📫 How to reach me ...
+- 👋 Hi, I’m Evanroby!
+- 📫 How to reach me: dm "evanroby" on discord!
 - ✨ Youtuber, called Evanroby (https://youtube.com/Evanroby)
+- 📈 Growing python developer.
+- 👌🏼 Nice and helpfull!
