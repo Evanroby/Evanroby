@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanroby&label=Profile%20views&color=0e75b6&style=flat" alt="evanroby" /> </p>
 
-- 🔭 I’m currently working on [Red-DiscordBot cogs](https://github.com/Evanroby/evanroby-cogs)
+- 🔭 I’m currently working on [Evanroby-cogs](https://github.com/Evanroby/evanroby-cogs)
 
 - 🌱 I’m currently learning **JavaScript**
 
