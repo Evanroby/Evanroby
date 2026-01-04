@@ -13,7 +13,7 @@ const developer = {
     name: "Evan",
     location: "France 🇫🇷",
     role: "Frontend Developer",
-    currentlyBuilding: "Red-DiscordBot cogs",
+    currentlyBuilding: "Axion",
     learningPath: ["JavaScript", "Node.js", "Web Development"],
     interests: ["YouTube Content Creation", "Discord Bots", "3D Modeling"],
     motto: "Coding for the love of it! 💻",
@@ -21,9 +21,9 @@ const developer = {
 };
 ```
 
-- 🔭 Currently working on: **Red-DiscordBot cogs**
+- 🔭 Currently working on: **[Axion](https://axion-v2.vercel.app)**
 - 🌱 Learning: **JavaScript** and modern web development
-- ⚡ Fun fact: **I'm here for fun!**
+- ⚡ Fun fact: **I'm a friendly user!**
 - 📫 Reach me at: **evanroby.yt@gmail.com**
 
 ## 🌐 Connect With Me
