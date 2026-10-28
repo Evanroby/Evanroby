@@ -39,8 +39,6 @@ I also make YouTube content and mess around with Discord bots on the side.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanroby&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-[![Evan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evanroby&theme=tokyo-night&hide_border=true)](https://github.com/evanroby)
-
 ---
 
 <p align="center">
